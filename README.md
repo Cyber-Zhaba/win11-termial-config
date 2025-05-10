@@ -1,0 +1,1 @@
+# win11-termial-config
