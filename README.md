@@ -14,6 +14,8 @@
 
 [nvim](https://neovim.io/)
 
+[bat](https://github.com/sharkdp/bat)
+
 ## Startup
 
 `$PROFILE`
