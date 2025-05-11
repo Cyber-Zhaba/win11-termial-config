@@ -7,14 +7,13 @@
 ## CLI tools
 
 [zoxide](https://github.com/ajeetdsouza/zoxide?ysclid=mai8uvgczi820479217)
-
 [fzf](https://github.com/junegunn/fzf)
-
 [uv](https://docs.astral.sh/uv/)
-
 [nvim](https://neovim.io/)
-
 [bat](https://github.com/sharkdp/bat)
+[docker](https://www.docker.com/products/docker-desktop/)
+[lazydocker](https://github.com/jesseduffield/lazydocker)
+[choco](https://chocolatey.org/install)
 
 ## Startup
 
